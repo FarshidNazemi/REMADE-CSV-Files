@@ -14,7 +14,7 @@ Downcycling (System Expansion) - SI units,multilayer film waste,false,36e9153c-f
 Incineration (with recovery - film) - SI units,multilayer film waste,false,36e9153c-f08a-4edf-8aae-80eef6f20e3d,false,,Z2: REMADE,,,,1,,,-0.918,,,,,,,,,,,
 Incineration (with recovery -bracket) - SI units,Bracket Waste,false,bea25bec-19b3-45e7-8207-196c8faf79e6,false,,Z2: REMADE,,,,1,,1,,-0.9118,,,,,,,,,,
 Landfill (brackets) - SI units,Bracket Waste,false,bea25bec-19b3-45e7-8207-196c8faf79e6,false,,Z2: REMADE,,,,1,,1,,,-1,,,,,,,,,
-Landfill (film) - SI units,multilayer film waste,false,36e9153c-f08a-4edf-8aae-80eef6f20e3d,false,,Z2: REMADE,,,,1,,,,,,-1,,,,,,,,0.1
+Landfill (film) - SI units,multilayer film waste,false,36e9153c-f08a-4edf-8aae-80eef6f20e3d,false,,Z2: REMADE,,,,1,,,,,,-1,,,,,,,,0.11
 "market for electricity, for reuse in municipal waste incineration only | electricity, for reuse in municipal waste incineration only | APOS, S","electricity, for reuse in municipal waste incineration only",false,637ee275-a239-4dcb-b084-abfa110dd65b,false,RoW,382:Waste treatment and disposal,3821:Treatment and disposal of non-hazardous waste,,,,,,3.6,3.6,,,3.6,,,,,,,
 "market for maleic anhydride | maleic anhydride | APOS, S",maleic anhydride,false,4c2b6470-79f6-40e4-b6c0-08a769c9ab04,false,GLO,"201:Manufacture of basic chemicals, fertilizers and nitrogen compounds, plastics",2011:Manufacture of basic chemicals,,,,,,,,,,,1,,,,,,-0.00094
 "market for nylon 6 | nylon 6 | APOS, S",nylon 6,false,d16b5d3f-b5e4-45b6-9a04-23cde05220c0,false,RoW,"201:Manufacture of basic chemicals, fertilizers and nitrogen compounds, plastics",2013:Manufacture of plastics and synthetic rubber in primary forms,,,,,,,,,,,,1,,,,,-0.289
