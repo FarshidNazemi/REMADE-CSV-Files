@@ -16,7 +16,7 @@ Downcycling (System Expansion) - SI units,multilayer film waste,false,36e9153c-f
 Incineration (with recovery - film) - SI units,multilayer film waste,false,36e9153c-f08a-4edf-8aae-80eef6f20e3d,false,,Z2: REMADE,,,,1,,,,,-0.918,,,,,,,,,,,,,,,,,1,
 Incineration (with recovery -bracket) - SI units,Bracket Waste,false,bea25bec-19b3-45e7-8207-196c8faf79e6,false,,Z2: REMADE,,,,1,,,,1,,-0.9118,,,,,,,,,,,,,,,,,
 Landfill (brackets) - SI units,Bracket Waste,false,bea25bec-19b3-45e7-8207-196c8faf79e6,false,,Z2: REMADE,,,,1,,,,1,,,-1,,,,,,,,,,,,,,,,
-Landfill (film) - SI units,multilayer film waste,false,36e9153c-f08a-4edf-8aae-80eef6f20e3d,false,,Z2: REMADE,,,,1,,,,,,,,-1,,,,,,,,,,,,0.1,,1,
+Landfill (film) - SI units,multilayer film waste,false,36e9153c-f08a-4edf-8aae-80eef6f20e3d,false,,Z2: REMADE,,,,1,,,,,,,,-1,,,,,,,,,,,,0.11,,1,
 "market for charcoal | charcoal | APOS, S",charcoal,false,8397cd58-0950-4853-ba0e-97ad2a279edb,false,GLO,022:Logging,0220:Logging,,,,,,,,,,,,1,,,,,,,,,,,,0.08,,
 "market for electricity, for reuse in municipal waste incineration only | electricity, for reuse in municipal waste incineration only | APOS, S","electricity, for reuse in municipal waste incineration only",false,637ee275-a239-4dcb-b084-abfa110dd65b,false,RoW,382:Waste treatment and disposal,3821:Treatment and disposal of non-hazardous waste,,,,,,,,3.6,3.6,,,,3.6,,,,,,,,,,,,,
 "market for ethylene glycol | ethylene glycol | APOS, S",ethylene glycol,false,4052f31f-cd94-4b86-b075-210914586a0f,false,GLO,"201:Manufacture of basic chemicals, fertilizers and nitrogen compounds, plastics",2011:Manufacture of basic chemicals,,,,,,,,,,,,,,1,,,,,,,,,,,,-0.023
